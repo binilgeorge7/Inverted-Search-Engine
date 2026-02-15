@@ -1,0 +1,14 @@
+#0;am;1;file3.txt;2;#
+#1;binil,,;1;file1.txt;1;#
+#1;binil;2;file2.txt;1;file3.txt;1;#
+#2;cases;1;file4.txt;1;#
+#5;for;1;file4.txt;1;#
+#7;ha..i;1;file1.txt;1;#
+#7;hello;2;file2.txt;1;file3.txt;1;#
+#8;i;1;file3.txt;2;#
+#13;not;1;file3.txt;1;#
+#16;qwertyui;1;file3.txt;1;#
+#18;special;1;file4.txt;1;#
+#19;test;1;file4.txt;1;#
+#26;.;1;file1.txt;1;#
+#26;.,;1;file1.txt;1;#
